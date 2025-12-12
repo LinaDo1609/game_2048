@@ -1,4 +1,4 @@
- #🔢 The Classic 2048 Game
+ # 🔢 The Classic 2048 Game
 
  Welcome to this immaculate, vanilla implementation of the globally famous 2048 sliding block puzzle. This project delivers the core, addictive gameplay experience without unnecessary distractions.
 
@@ -32,12 +32,16 @@ Challenge yourself to reach the elusive 2048 tile! Click the badge below to play
 
 **Install dependencies:**
 
+```bash
 npm install
 # or
 yarn install
+```
 
 **Run the project locally:**
 
+```bash
 npm start
 # or
 yarn start
+```
